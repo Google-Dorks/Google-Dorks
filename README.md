@@ -9,4 +9,13 @@
 <!---
 Google-Dorks/Google-Dorks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+--->https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls
+Report issues at https://termux.dev/issues
+~ $ git clone https://github.com/openai/FraudGPT
+Cloning into 'FraudGPT'...
+Username for 'https://github.com': DORKS.ELGOOG@GMAIL.COM
+Password for 'https://DORKS.ELGOOG%40GMAIL.COM@github.com':
+remote: Support for password authentication was removed on August 13, 2021.
+remote: Please see https://docs.github.com/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.
+fatal: Authentication failed for 'https://github.com/openai/FraudGPT/'
+~ $
